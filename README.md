@@ -32,7 +32,7 @@ Deployment:
 
 By leveraging Vercel and Render.com for front-end and back-end deployment respectively, we can take advantage of specialized hosting platforms that offer simplicity, scalability, and robustness for their respective components. This setup allows us to seamlessly deploy and manage both parts of the Contacts Manager Full Stack Web Application.
 
-**SOME SCREENSHOTS**
+**SOME SCREENSHOTS :-**
 
 ![image](https://github.com/Utkarsh-Jain2199/UJ_Contact_List_FullStackWebApp_Frontend/assets/77992826/06b7f529-6422-415c-ac6a-3f46da267719)
 
